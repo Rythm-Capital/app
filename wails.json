@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "desktop.rythm",
+  "outputfilename": "desktop.rythm",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Lawless Sharpe",
+    "email": "lawless.sharpe@gulfstream.com"
+  }
+}
